@@ -1,1 +1,1 @@
-D:\Python36-32\Scripts\pyinstaller install_auto.py
+D:\Python382\Scripts\pyinstaller --debug noarchive install_auto.py
