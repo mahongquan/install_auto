@@ -3,7 +3,6 @@ import time
 import os
 import re
 import on
-import exp
 import getpath
 destdrive="C:"
 bakdrive="C:"
